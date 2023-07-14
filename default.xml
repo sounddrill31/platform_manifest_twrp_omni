@@ -12,7 +12,6 @@
            review="android-review.googlesource.com" />
 
   <remote  name="omnirom"
-           review="gerrit.omnirom.org"
            fetch="https://github.com/omnirom" />
 
   
