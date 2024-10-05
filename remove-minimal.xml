@@ -391,8 +391,8 @@
     <remove-project name="android_external_aac" />
     <remove-project name="android_external_chromium-webview" />
 
-    <!-- refer to twrp-extras.xml why android_frameworks_base is removed here -->
-    <remove-project name="android_frameworks_base" />
+    <!-- refer to twrp-extras.xml why android_frameworks_base_old is removed here -->
+    <remove-project name="android_frameworks_base_old" />
 
     <remove-project name="android_frameworks_opt_net_ims" />
     <remove-project name="android_frameworks_opt_net_wifi" />
